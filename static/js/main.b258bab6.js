@@ -9615,7 +9615,7 @@
 						case "socials":
 							n.push({
 								command: "socials",
-								content: '\n            <h2>Socials</h2>\n\n            <p>\n              Facebook: <a target="blank" href="https://www.vk.com/levouro">https://www.vk.com/levouro</a>\n            </p>\n\n            <p>\n              Telegram: <a target="blank" href="https://t.me/tgSapiens">https://t.me/tgSapiens</a>\n            </p>\n          '
+								content: '\n            <h2>Socials</h2>\n\n            <p>\n              VK: <a target="blank" href="https://vk.com/levouro">https://vk.com/levouro</a>\n            </p>\n\n            <p>\n              Telegram: <a target="blank" href="https://t.me/tgSapiens">https://t.me/tgSapiens</a>\n            </p>\n          '
 							}), this.setState({
 								stack: n
 							});
