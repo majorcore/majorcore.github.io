@@ -10,7 +10,7 @@
    Base styles: opinionated defaults
    ========================================================================== */
 body {
-  background-image: url("/img/background.jpg");
+  background-image: url("img/background.jpg");
   font-family: 'Lobster', cursive;
 }
 
